@@ -62,7 +62,7 @@ LangChain(LangGraph, LangSmith)/HuggingFace/RunPod/Ollama, MCP, LLM(Sonnet/Anthr
 
 <a href="https://github.com/18-RAJAT"><img src="https://github.com/18-RAJAT.png?size=96" alt="18-RAJAT" width="96px" height="96px" style="max-width: 100%;"></a>
 <a href="https://github.com/1998-sys"><img src="https://github.com/1998-sys.png?size=96" alt="1998-sys" width="96px" height="96px" style="max-width: 100%;"></a>
-<a href="https://github.com/abhisheknaiidu"><img src="https://github.com/abhisheknaiidu.png?size=96" alt="abhisheknaiidu" width="96px" height="96px" style="max-width: 100%;"></a>
+<a href="https://github.com/bitdev-7"><img src="https://github.com/bitdev-7.png?size=96" alt="bitdev-7" width="96px" height="96px" style="max-width: 100%;"></a>
 <a href="https://github.com/alvaroreis"><img src="https://github.com/alvaroreis.png?size=96" alt="alvaroreis" width="96px" height="96px" style="max-width: 100%;"></a>
 <a href="https://github.com/Andherline"><img src="https://github.com/Andherline.png?size=96" alt="Andherline" width="96px" height="96px" style="max-width: 100%;"></a>
 <a href="https://github.com/babboe1"><img src="https://github.com/babboe1.png?size=96" alt="babboe1" width="96px" height="96px" style="max-width: 100%;"></a>
