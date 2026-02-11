@@ -24,7 +24,7 @@
 
 | GitHub Stats                                                                                                                                                 | Languages                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) | ![healer's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=healer-125&theme=radical&layout=compact) |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=healer-125)](https://github.com/anuraghazra/github-readme-stats) | ![healer's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=healer-125&theme=radical&layout=compact) |
 
 <br>
 <br>
