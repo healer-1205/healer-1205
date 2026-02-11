@@ -24,7 +24,7 @@
 
 | GitHub Stats                                                                                                                                                 | Languages                                                                                                                              |
 | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| ![healer's github stats](https://github-readme-stats.vercel.app/api?username=healer-125&show_icons=true&rank_icon=github&theme=radical&include_all_commits=true) | ![healer's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=healer-125&theme=radical&layout=compact) |
+| ![healer's github stats](https://github-readme-stats-fast.vercel.app/api?username=healer-125&show_icons=true&rank_icon=github&theme=radical&include_all_commits=true) | ![healer's github stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=healer-125&theme=radical&layout=compact) |
 
 <br>
 <br>
