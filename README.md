@@ -36,7 +36,7 @@
 <!-- </div> -->
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=idimetrix&theme=onestar&no-frame=true" alt="healer" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=healer-125&theme=onestar&no-frame=true" alt="healer" /></a>
 </p>
 
 <br>
@@ -229,7 +229,7 @@ A big believer in:
 
 <!--   green snake -->
 
-![healer's github activity graph](https://raw.githubusercontent.com/idimetrix/idimetrix/output/github-contribution-grid-snake.svg)
+![healer's github activity graph](https://raw.githubusercontent.com/healer-125/healer-125/output/github-contribution-grid-snake.svg)
 
 <!--   profile-green-animate -->
 
