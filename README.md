@@ -105,58 +105,6 @@ LangChain(LangGraph, LangSmith)/HuggingFace/RunPod/Ollama, MCP, LLM(Sonnet/Anthr
 <br>
 <br>
 
-## Overview
-
-#### With over 10 years of experience, a Lead Full-Stack Software Engineer specializes in designing and developing web applications. Skilled in JavaScript frameworks like React, Vue, Svelte, Stencil, and Angular, and proficient with back-end technologies such as Node, Go, and Python, this role focuses on creating scalable, efficient, and secure applications.
-
-<summary>Highlights / Proficiencies / Interests / Believes</summary></br>
-
-Highlights:
-
-- ⭐ total 8+ years of professional experience in full lifecycle development
-- ⭐ Delivered over 21+ projects
-- ⭐ Worked with over 4+ companies from startup to enterprise level
-- ⭐ Mentoring over 10+ individuals on how to grow their technical and leadership skills
-- ⭐ Web2 and Web3 expert, I specialize in facilitating the seamless transition from Web2 to Web3 technologies.
-- ⭐ Worked on innovative and cutting-edge projects
-- ⭐ Contribute to industry thought leadership
-- ⭐ Master new technologies, master computer science, and mathematics
-
-Proficiencies:
-
-- 📚 OpenAI, GPT, LangChain, LangGraph, LangSmith, RunPod, HuggingFace, Ollama, Pytorch, Tensorflow, MCP (Model Context Protocol)
-- 📚 JavaScript, TypeScript, Node.js with Serverless and Containers, and Microservices architecture
-- 📚 React.js + Next.js + SSR/CSR + Prisma + Vercel
-- 📚 Vue.js + Nuxt.js + SSR/CSR + TypeOrm + Cloudflare
-- 📚 Svelte and Stencil + Storybook + Web Components
-- 📚 SQL and NoSQL databases (MySQL, PostgreSQL, MongoDB, DynamoDB, Redis)
-- 📚 AWS (Amazon Web Service), Azure, GCP, Kubernetes, Docker, Nginx
-- 📚 Go lang, Python/Flask/Django/FastAPI
-- 📚 HTML5/CSS3 + Canvas + WebGL + Animation
-- 📚 Dart/Flutter, Firebase, Supabase
-- 📚 Agile, Scrum, Kanban
-- 📚 Web2/Web3 startups
-- 📚 Cryptography (cryptocurrency and blockchain)
-- 📚 Team Leadership
-- 📚 Project Leadership
-
-Interests:
-
-- ✔️ Self-education and self-development: Continuously seek opportunities for personal growth, self-improvement, and acquiring new knowledge and skills to stay at the forefront of industry trends and advancements.
-- ✔️ Family: Places great importance on nurturing and cherishing family bonds, fostering strong relationships, and maintaining a healthy work-life balance to support personal well-being and fulfillment.
-- ✔️ Sport (gym, padel tennis, crossfit): Engage in physical activities such as gym workouts, padel tennis, and crossfit, recognizing the importance of maintaining an active and healthy lifestyle to enhance productivity, focus, and overall well-being.
-
-A big believer in:
-
-- 💡 Power of continuous learning and personal growth
-- 💡 Importance of cultivating a positive mindset and embracing optimism
-- 💡 Value of hard work and perseverance in achieving success
-- 💡 Power of empathy and kindness in fostering meaningful connections and creating a harmonious society
-- 💡 Importance of ethical behavior and integrity in all aspects of life
-
-<br>
-<br>
-
 ## 🥇 Primary technology stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
