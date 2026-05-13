@@ -1,4 +1,4 @@
-# ⭐ **AI & Web Specialist** ⭐
+# ⭐ **Senior Developer** ⭐
 
 ## Contact me
 
