@@ -96,7 +96,6 @@ LangChain(LangGraph, LangSmith)/HuggingFace/RunPod/Ollama, MCP, LLM(Sonnet/Anthr
 <a href="https://github.com/Thaisramos13"><img src="https://github.com/Thaisramos13.png?size=96" alt="Thaisramos13" width="96px" height="96px" style="max-width: 100%;"></a>
 <a href="https://github.com/vagnereis"><img src="https://github.com/vagnereis.png?size=96" alt="vagnereis" width="96px" height="96px" style="max-width: 100%;"></a>
 <a href="https://github.com/vngabriel"><img src="https://github.com/vngabriel.png?size=96" alt="vngabriel" width="96px" height="96px" style="max-width: 100%;"></a>
-<a href="https://github.com/black-thumb"><img src="https://github.com/black-thumb.png?size=96" alt="Wendel-Andrade" width="96px" height="96px" style="max-width: 100%;"></a>
 <a href="https://github.com/gentlefortuna"><img src="https://github.com/gentlefortuna.png?size=96" alt="gentlefortuna" width="96px" height="96px" style="max-width: 100%;"></a>
 <a href="https://github.com/shinyinight"><img src="https://github.com/shinyinight.png?size=96" alt="logitechwinwin" width="96px" height="96px" style="max-width: 100%;"></a>
 
