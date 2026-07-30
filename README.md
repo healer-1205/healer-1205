@@ -36,7 +36,7 @@
 <!-- </div> -->
 
 <p align="center"> 
-<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-tawny.vercel.app/?username=healer-125&theme=onestar&no-frame=true" alt="healer" /></a>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=healer-125&theme=onestar&no-frame=true" alt="healer" /></a>
 </p>
 
 <br>
